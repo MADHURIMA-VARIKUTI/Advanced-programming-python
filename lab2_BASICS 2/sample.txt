@@ -1,0 +1,8 @@
+This is line 1.
+Hello from line 2.
+Line 3 is here!
+Python programming is great.
+Fifth line is short.
+Sixth line, testing.
+Lucky number seven.
+Last line, number 8.
